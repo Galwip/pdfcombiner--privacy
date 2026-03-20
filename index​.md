@@ -28,8 +28,8 @@ locally on your Mac. This data never leaves your device.
 
 ## Contact
 
-Questions about this privacy policy: **contact@galwip.com**
-(remplace par ton email réel)
+Questions about this privacy policy: galwipATgmail.com
+
 
 ## Changes
 
